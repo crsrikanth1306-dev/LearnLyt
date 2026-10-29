@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Title: Python Lists",
+        "category": "Category: Python",
+        "content": "Content: Lists store multiple items",
+        "created_at": "2026-10-29 11:32",
+        "updated_at": "2026-10-29 11:32"
+    },
+    {
+        "id": 2,
+        "title": "Python libraries",
+        "category": "python",
+        "content": "library",
+        "created_at": "2026-10-29 11:33",
+        "updated_at": "2026-10-29 11:33"
+    }
+]
